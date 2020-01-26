@@ -4,10 +4,10 @@
   "timestamp": "2020-01-16T16:51:27+0000",
   "count": 4,
   "data": [
-    { "id": 01, "courseCode": "MAP523", "couseName": "Mobile App Development - iOS"},
-    { "id": 02, "courseCode": "MAP526", "couseName": "Mobile App Development - Cross Platform"},
-    { "id": 03, "courseCode": "SPO600", "couseName": "Software Portability and Optimization"},
-    { "id": 04, "courseCode": "PRJ566", "couseName": "Project Planning and Management"}
+    { "id": 01, "courseCode": "MAP523", "courseName": "Mobile App Development - iOS"},
+    { "id": 02, "courseCode": "MAP526", "courseName": "Mobile App Development - Cross Platform"},
+    { "id": 03, "courseCode": "SPO600", "courseName": "Software Portability and Optimization"},
+    { "id": 04, "courseCode": "PRJ566", "courseName": "Project Planning and Management"}
   ]
 }
   
